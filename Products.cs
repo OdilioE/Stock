@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//modification by Odi today..... go to gibhub
+//modification by Odi today..... go to gibhub and it worked
 
 namespace Stock003
 {
