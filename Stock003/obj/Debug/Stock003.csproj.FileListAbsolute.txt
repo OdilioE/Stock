@@ -1,0 +1,12 @@
+C:\Users\odili\source\repos\Stock003\obj\Debug\Stock003.csprojAssemblyReference.cache
+C:\Users\odili\source\repos\Stock003\obj\Debug\Stock003.Login.resources
+C:\Users\odili\source\repos\Stock003\obj\Debug\Stock003.Properties.Resources.resources
+C:\Users\odili\source\repos\Stock003\obj\Debug\Stock003.StockMain.resources
+C:\Users\odili\source\repos\Stock003\obj\Debug\Stock003.csproj.GenerateResource.cache
+C:\Users\odili\source\repos\Stock003\obj\Debug\Stock003.csproj.CoreCompileInputs.cache
+C:\Users\odili\source\repos\Stock003\bin\Debug\Stock003.exe.config
+C:\Users\odili\source\repos\Stock003\bin\Debug\Stock003.exe
+C:\Users\odili\source\repos\Stock003\bin\Debug\Stock003.pdb
+C:\Users\odili\source\repos\Stock003\obj\Debug\Stock003.exe
+C:\Users\odili\source\repos\Stock003\obj\Debug\Stock003.pdb
+C:\Users\odili\source\repos\Stock003\obj\Debug\Stock003.Products.resources
